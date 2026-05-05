@@ -20,7 +20,7 @@ Proyecto desarrollado para un cliente con la finalidad de promocionar sus servic
 
 ## 🔗 Enlace del proyecto
 
-👉 [Dirígete a](https://proyecto-hr-mu.vercel.app/)
+👉 (https://proyecto-hr-mu.vercel.app/)
 
 ---
 
