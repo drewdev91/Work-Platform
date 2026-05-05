@@ -8,3 +8,4 @@ Proyecto desarrollado para un cliente con la finalidad de promocionar sus servic
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
+![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
