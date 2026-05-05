@@ -8,11 +8,12 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
-### Descripción
+## Descripción
 Proyecto desarrollado para un cliente con la finalidad de promocionar sus servicios de gestión de talento.
 
 
 
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/open%20source-yes-brightgreen?style=for-the-badge)
-![Maintenance](https://img.shields.io/badge/maintained-yes-blue?style=for-the-badge)
+
+
+#Autor 👤 Andrew Galvan 
