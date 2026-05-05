@@ -24,9 +24,7 @@ Proyecto desarrollado para un cliente con la finalidad de promocionar sus servic
 
 ---
 
-## ✍️ Autor
-
-**Andrew Galvan**
+### ✍️ Autor **Andrew Galvan**
 
 
 
