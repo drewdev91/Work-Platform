@@ -14,3 +14,5 @@ Proyecto desarrollado para un cliente con la finalidad de promocionar sus servic
 
 
 ![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/open%20source-yes-brightgreen?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/maintained-yes-blue?style=for-the-badge)
