@@ -16,8 +16,6 @@
 Proyecto desarrollado para un cliente con la finalidad de promocionar sus servicios de gestión de talento y de ofertas laborales para los candidatos.
 
 
-![Status](https://img.shields.io/badge/status-active-success?style=for-the-badge)
-
 ---
 
 ## 🔗 Enlace del proyecto
